@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.883bd15935ee2852200f6cd945cb6c32.js"
+  "/precache-manifest.5c7d2c63d7d70463105626b72775ddcd.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "justine-joshua-quiazon"});
